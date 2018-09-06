@@ -1,1 +1,1 @@
-adsf
+console.log("Hello World");
